@@ -71,5 +71,13 @@ Entries:
   id: 2601
   time: '2026-10-07T01:14:10.000000+00:00'
   url: https://github.com/RonStation/starlight-14/pull/26
+- author: Semper
+  changes:
+  - message: Null-link checks now have been replaced to just use flags. In theory
+      mentor content should work as intended.
+    type: Tweak
+  id: 3101
+  time: '2026-10-07T01:16:14.000000+00:00'
+  url: https://github.com/RonStation/starlight-14/pull/31
 Order: -2
 
