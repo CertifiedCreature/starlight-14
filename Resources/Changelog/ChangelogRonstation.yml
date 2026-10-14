@@ -79,5 +79,12 @@ Entries:
   id: 3101
   time: '2026-10-07T01:16:14.000000+00:00'
   url: https://github.com/RonStation/starlight-14/pull/31
+- author: Semper
+  changes:
+  - message: Fixed lobby title, now defaulting to Ronstation.
+    type: Fix
+  id: 3501
+  time: '2026-10-14T08:08:18.000000+00:00'
+  url: https://github.com/RonStation/starlight-14/pull/35
 Order: -2
 
