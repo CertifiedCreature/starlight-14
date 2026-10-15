@@ -17,6 +17,7 @@
   access:
   - Cargo
   - Salvage
+  - Mining #Ronstation: Keeping Salvage slightly attached to the station. Mining needed since Salvage is unmapped from all upstream maps, and this is the only area they'd reasonably bring shit to.
   - External
   - Maintenance
   - Shuttle # Starlight
