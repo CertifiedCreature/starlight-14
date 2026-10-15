@@ -15,6 +15,7 @@
   supervisors: job-supervisors-itg #starlight
   displayWeight: 4 # Starlight
   access:
+  - Cargo
   - Salvage
   - External
   - Maintenance

@@ -18,6 +18,7 @@
   access:
   - Salvage
   - SalvageLead
+  - Cargo #Ronstation: Keeping Salvage slightly attached to the station.
   - External
   - Maintenance
   - Shuttle

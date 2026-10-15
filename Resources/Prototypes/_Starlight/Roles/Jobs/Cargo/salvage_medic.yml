@@ -17,6 +17,7 @@
   displayWeight: 4
   access:
   - Salvage
+  - Cargo #Ronstation: Keeping Salvage slightly attached to the station.
   - Maintenance
   - External
   special:

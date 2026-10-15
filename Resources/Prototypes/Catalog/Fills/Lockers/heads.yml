@@ -18,6 +18,7 @@
     - id: ClothingOuterHardsuitLuxmax
     - id: MiningShuttleConsoleCircuitboard
     - id: CargoTechFabFlatpack
+    - id: EncryptionKeySalvage #Ronstation: Keeping Salvage slightly attached to the station.
     - id: BookSecureTerminalManual # Starlight
     - id: PrintedDocumentGreenshiftAlert
       conditions:
@@ -94,6 +95,7 @@
     - id: WeaponDisabler
     - id: ClothingEyesGlassesCommand
     - id: ClothingEyesHudCommand
+    - id: EncryptionKeyExpedition #Ronstation: Keeping Salvage slightly attached to the station.
     - id: SpyglassCaptain # Starlight Start
     - id: CommunicationTablet
     - id: CommandTechFabFlatpack
