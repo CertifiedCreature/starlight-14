@@ -32,7 +32,7 @@
   id: SalvageSpecialistGear
   equipment:
    # id: SalvagePDA #Starlight
-    ears: ClothingHeadsetSalvageLead #starlight
+    ears: ClothingHeadsetSalvageITG #Ronstation: Seperate headset for non-leaders.
   #storage:
     #back:
     #- Stuff

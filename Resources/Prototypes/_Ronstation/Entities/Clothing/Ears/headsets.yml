@@ -14,3 +14,18 @@
     sprite: Clothing/Ears/Headsets/mining.rsi
   - type: Clothing
     sprite: Clothing/Ears/Headsets/mining.rsi
+- type: entity
+  parent: ClothingHeadsetCargo
+  id: ClothingHeadsetSalvageITG # Seperately defined due to the same reason for the proto above this.
+  name: salvage specialist's headset
+  description: Headset used by all of the standard Salvage Specialists.
+  components:
+  - type: ContainerFill
+    containers:
+      key_slots:
+      - EncryptionKeySalvage
+      - EncryptionKeyCommon
+  - type: Sprite
+    sprite: Clothing/Ears/Headsets/mining.rsi
+  - type: Clothing
+    sprite: Clothing/Ears/Headsets/mining.rsi
