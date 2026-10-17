@@ -19,7 +19,7 @@
     - id: MiningShuttleConsoleCircuitboard
     - id: CargoTechFabFlatpack
     - id: EncryptionKeySalvage #Ronstation: Keeping Salvage slightly attached to the station.
-    - id: EncryptionKeyExpedition #Ronstation: Keeping Salvage slightly attached to the station. (QM now has a key for emergency access to Expedition comms if a role other than Captain needs it)
+    - id: EncryptionKeyExpedition #Ronstation: Keeping Salvage slightly attached to the station. This is basically meant to be the one encryption key the QM has to give ONLY expedition comms to someone. (such as, in an emergency, Security.)
     - id: BookSecureTerminalManual # Starlight
     - id: PrintedDocumentGreenshiftAlert
       conditions:
