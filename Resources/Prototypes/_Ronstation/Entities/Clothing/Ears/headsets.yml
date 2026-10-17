@@ -11,14 +11,14 @@
       - EncryptionKeySalvage
       - EncryptionKeyCommon
   - type: Sprite
-    sprite: Clothing/Ears/Headsets/mining.rsi
+    sprite: _Ronstation/Clothing/Ears/Headsets/salvmed.rsi
   - type: Clothing
-    sprite: Clothing/Ears/Headsets/mining.rsi
+    sprite: _Ronstation/Clothing/Ears/Headsets/salvmed.rsi
 - type: entity
   parent: ClothingHeadsetCargo
   id: ClothingHeadsetSalvageITG # Seperately defined due to the same reason for the proto above this.
   name: salvage specialist's headset
-  description: Headset used by all of the standard Salvage Specialists.
+  description: Headset used by basic salvage specialists.
   components:
   - type: ContainerFill
     containers:

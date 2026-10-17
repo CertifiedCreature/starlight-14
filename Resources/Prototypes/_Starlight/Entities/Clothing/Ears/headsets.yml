@@ -143,9 +143,9 @@
       - EncryptionKeySalvage #Ronstation: Keeping Salvage slightly attached to the station.
       - EncryptionKeyCommon
   - type: Sprite
-    sprite: Clothing/Ears/Headsets/mining.rsi
+    sprite: _Ronstation/Clothing/Ears/Headsets/salvlead.rsi #Ronstation: Keeping Salvage slightly attached to the station. (Unique sprites to differentiate the headsets)
   - type: Clothing
-    sprite: Clothing/Ears/Headsets/mining.rsi
+    sprite: _Ronstation/Clothing/Ears/Headsets/salvlead.rsi #Ronstation
 
 - type: entity
   parent: [BaseTSFContraband, ClothingHeadset]
