@@ -122,7 +122,7 @@ public sealed partial class ShadekinSystem : EntitySystem
         if (!TryComp<HumanoidAppearanceComponent>(uid, out var humanoid))
             return;
 
-        humanoid.EyeGlowing = false;
+        //humanoid.EyeGlowing = true; // Ronstation: yeah we don't need this forceful enforcing of the lore.
         Dirty(uid, humanoid);
     }
 
