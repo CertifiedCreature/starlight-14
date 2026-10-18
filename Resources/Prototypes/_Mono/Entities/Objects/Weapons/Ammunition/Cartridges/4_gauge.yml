@@ -1,7 +1,7 @@
 - type: entity
   id: BaseShellShotgun23x75mm
   name: shotgun shell (4 gauge)
-  parent: [ BaseCartridge, BaseC1Contraband ] # Frontier: added BaseC1Contraband
+  parent: [ BaseCartridge, BaseSecurityContraband ] # Frontier: added BaseC1Contraband
   abstract: true
   components:
   - type: Tag
