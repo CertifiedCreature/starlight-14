@@ -86,5 +86,15 @@ Entries:
   id: 3501
   time: '2026-10-14T08:08:18.000000+00:00'
   url: https://github.com/RonStation/starlight-14/pull/35
+- author: Semper
+  changes:
+  - message: Atlas now actually should be loadable as a roundstart map.
+    type: Fix
+  - message: Atlas no longer has Salvage mapped directly on it. +1 salv slot, +1 salvmed
+      slot.
+    type: Tweak
+  id: 4001
+  time: '2026-10-18T17:08:25.000000+00:00'
+  url: https://github.com/RonStation/starlight-14/pull/40
 Order: -2
 
