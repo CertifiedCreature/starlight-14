@@ -3,4 +3,6 @@
 - type: Tag
   id: WeaponShotgunBigJohnny
 - type: Tag
+  id: WeaponShotgunBigBuddy
+- type: Tag
   id: ShellShotgun23x75mmBuckshot

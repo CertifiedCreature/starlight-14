@@ -37,7 +37,7 @@
   parent:
   - BaseWeaponShotgun
   - BaseGunWieldable
-  - BaseCentcommContraband # Ronstation: porting some mono guns for fun; contra rating may change.
+  - BaseSecurityContraband # Ronstation: porting some mono guns for fun; contra rating may change.
   id: WeaponShotgunBigJohnny
   description: An old yet faithful design, and a favorite among irregular forces on many worlds.
   components:
