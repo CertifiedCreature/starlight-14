@@ -86,5 +86,47 @@ Entries:
   id: 3501
   time: '2026-10-14T08:08:18.000000+00:00'
   url: https://github.com/RonStation/starlight-14/pull/35
+- author: Semper
+  changes:
+  - message: Atlas now actually should be loadable as a roundstart map.
+    type: Fix
+  - message: Atlas no longer has Salvage mapped directly on it. +1 salv slot, +1 salvmed
+      slot.
+    type: Tweak
+  id: 4001
+  time: '2026-10-18T17:08:25.000000+00:00'
+  url: https://github.com/RonStation/starlight-14/pull/40
+- author: Semper
+  changes:
+  - message: New unique Shadekin sounds for talking and laughing.
+    type: Add
+  - message: Moved existing Shadekin lore to a book, and added it to the bookshelf
+      fill pool.
+    type: Add
+  - message: Clamping on Shadekin eye color removed, alongside disabling the enforcement
+      of no glowing eyes.
+    type: Remove
+  id: 3401
+  time: '2026-10-18T17:13:22.000000+00:00'
+  url: https://github.com/RonStation/starlight-14/pull/34
+- author: Semper
+  changes:
+  - message: Added a salvmed headset with Medical comms, and a headset for normal
+      salvagers.
+    type: Add
+  - message: Salvage Lead now gets a command key, due to being the highest authority
+      over ITG's physical presence in the sector.
+    type: Add
+  - message: All Salvage radios have had their cargo key returned.
+    type: Tweak
+  - message: Re-added salvage/expedition keys to the locker fills/headsets they were
+      removed from.
+    type: Tweak
+  - message: Cargo and Mining access granted to all Salvagers, so they can directly
+      assist the station as they would traditionally.
+    type: Tweak
+  id: 4101
+  time: '2026-10-18T17:14:18.000000+00:00'
+  url: https://github.com/RonStation/starlight-14/pull/41
 Order: -2
 

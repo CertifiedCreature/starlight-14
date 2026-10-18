@@ -15,6 +15,7 @@
     speaks:
     - GalacticCommon
     - Marish
+    - Empathy # Ronstation: Not forcefully enforcing the upstream lore, so might as well let kin have this. (its basically just like the avali's nexus)
     understands:
     - GalacticCommon
     - Marish
