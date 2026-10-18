@@ -29,7 +29,7 @@
 - type: startingGear
   id: SalvageMedicGear
   equipment:
-    ears: ClothingHeadsetSalvageLead
+    ears: ClothingHeadsetSalvageMed
 
 - type: chameleonOutfit
   id: SalvageMedicChameleonOutfit
