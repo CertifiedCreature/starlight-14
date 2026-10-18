@@ -96,5 +96,18 @@ Entries:
   id: 4001
   time: '2026-10-18T17:08:25.000000+00:00'
   url: https://github.com/RonStation/starlight-14/pull/40
+- author: Semper
+  changes:
+  - message: New unique Shadekin sounds for talking and laughing.
+    type: Add
+  - message: Moved existing Shadekin lore to a book, and added it to the bookshelf
+      fill pool.
+    type: Add
+  - message: Clamping on Shadekin eye color removed, alongside disabling the enforcement
+      of no glowing eyes.
+    type: Remove
+  id: 3401
+  time: '2026-10-18T17:13:22.000000+00:00'
+  url: https://github.com/RonStation/starlight-14/pull/34
 Order: -2
 
