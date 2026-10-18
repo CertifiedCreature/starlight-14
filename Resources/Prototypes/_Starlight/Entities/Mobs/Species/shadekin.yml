@@ -15,7 +15,7 @@
     speaks:
     - GalacticCommon
     - Marish
-    - Empathy # Ronstation: honestly since we're not trying to enforce upstream lore, I feel like just blanket granting this works for us, especially since Avalis already get their own.
+    - Empathy # Ronstation: Not forcefully enforcing the upstream lore, so might as well let kin have this. (its basically just like the avali's nexus)
     understands:
     - GalacticCommon
     - Marish
