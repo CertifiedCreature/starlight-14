@@ -12,8 +12,6 @@
   id: Shadekin
   name: species-name-shadekin
   text: "/ServerInfo/_Starlight/Guidebook/Mobs/Shadekin.xml"
-  children:
-  - ShadekinLore
 
 - type: guideEntry
   id: Felionoid
