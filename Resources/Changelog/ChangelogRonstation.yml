@@ -109,5 +109,24 @@ Entries:
   id: 3401
   time: '2026-10-18T17:13:22.000000+00:00'
   url: https://github.com/RonStation/starlight-14/pull/34
+- author: Semper
+  changes:
+  - message: Added a salvmed headset with Medical comms, and a headset for normal
+      salvagers.
+    type: Add
+  - message: Salvage Lead now gets a command key, due to being the highest authority
+      over ITG's physical presence in the sector.
+    type: Add
+  - message: All Salvage radios have had their cargo key returned.
+    type: Tweak
+  - message: Re-added salvage/expedition keys to the locker fills/headsets they were
+      removed from.
+    type: Tweak
+  - message: Cargo and Mining access granted to all Salvagers, so they can directly
+      assist the station as they would traditionally.
+    type: Tweak
+  id: 4101
+  time: '2026-10-18T17:14:18.000000+00:00'
+  url: https://github.com/RonStation/starlight-14/pull/41
 Order: -2
 
