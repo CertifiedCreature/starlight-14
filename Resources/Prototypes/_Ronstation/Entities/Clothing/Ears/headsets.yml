@@ -7,8 +7,8 @@
   - type: ContainerFill
     containers:
       key_slots:
-      - EncryptionKeyMedical # So That the Salv Medic can work and co-ordinate with the station's Medical team.
       - EncryptionKeySalvage
+      - EncryptionKeyMedical # So That the Salv Medic can work and co-ordinate with the station's Medical team.
       - EncryptionKeyCommon
   - type: Sprite
     sprite: _Ronstation/Clothing/Ears/Headsets/salvmed.rsi
