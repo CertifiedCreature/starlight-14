@@ -138,7 +138,7 @@ public sealed partial class ShadekinSystem : EntitySystem
             return;
 
         //humanoid.EyeGlowing = false; // Ronstation: yeah we don't need this forceful enforcing of the lore.
-        Dirty(uid, humanoid);
+        //Dirty(uid, humanoid);
     }
 
     [SubscribeLocalEvent]
