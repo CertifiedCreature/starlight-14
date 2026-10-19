@@ -40,7 +40,7 @@
   equipment:
     jumpsuit: ClothingUniformJumpskirtCentcommSecurityFormalWear
     back: ClothingBackpackHoldingCentcomOfficerFilled
-    shoes: ClothingShoesBootsJackFilled
+    shoes: ClothingShoesBootsJackAdvanced
     head: ClothingHeadHatCentcomcap
     mask: ClothingMaskGasCentcom
     neck: ClothingNeckCloakCCSDFireline
