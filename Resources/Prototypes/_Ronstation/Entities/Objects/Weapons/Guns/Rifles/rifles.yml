@@ -4,6 +4,15 @@
   id: WeaponRifleAnnieCCSD
   description: A beast designed to take on the worst the sector has to offer. This one has been modified by members of the Security Division; a scope, full range of firing modes, and even automated magazine ejection to keep up with the firepower of the Syndicate. Uses .30 rifle ammo.
   components:
+  - type: Sprite
+    sprite: _Ronstation/Objects/Weapons/Guns/Rifles/secannie.rsi
+    layers:
+      - state: base
+        map: ["enum.GunVisualLayers.Base"]
+      - state: mag-0
+        map: ["enum.GunVisualLayers.Mag"]
+  - type: Clothing
+    sprite: _Ronstation/Objects/Weapons/Guns/Rifles/secannie.rsi
   - type: Gun
     availableModes:
     - FullAuto
