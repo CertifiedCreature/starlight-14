@@ -305,7 +305,7 @@
 - type: loadout
   id: CCOCCAdvJack
   equipment:
-    shoes: ClothingShoesBootsJackFilled
+    shoes: ClothingShoesBootsMagJack
 # End Ronstation
 - type: loadout
   id: CCOCCHighHeels
@@ -365,6 +365,7 @@
   name: CCO-Sidearm-Group
   loadouts:
     - CCOMateba
+    - CCOFBHC # Ronstation: adding the 50 magnum deagle as a fill because why not
     - CCON1984
     - CCOCetoolbelt
     - CCOVibroblade
@@ -378,7 +379,12 @@
   id: CCON1984
   equipment:
     belt: ClothingBeltHolsterFilledN1984
-
+# Ronstation: adding the 50 magnum deagle as a fill because why not
+- type: loadout
+  id: CCOFBHC
+  equipment:
+    belt: ClothingBeltHolsterFilledDeagle
+# End Ronstation
 - type: loadout
   id: CCOCetoolbelt
   equipment:

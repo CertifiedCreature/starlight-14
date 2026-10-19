@@ -1,7 +1,7 @@
 #recolored goob sprite, but based off of stuff I've seen on frontier forks for the actual gameplay elements.
 - type: entity
   parent: [BaseCentcommContraband, ClothingShoesBootsMagBase, ClothingShoesBootsJack]
-  id: ClothingShoesBootsJackAdvanced
+  id: ClothingShoesBootsMagJack
   name: advanced jackboots
   description: Hybrid Jack-Magboots prototype that trades half of its injury assistance for a toggleable strong magnetic pull.
   components:
